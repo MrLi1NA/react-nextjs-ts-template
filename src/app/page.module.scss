@@ -1,0 +1,14 @@
+$color: lightpink;
+$primary-color: #64ff00;
+
+.title {
+  color: $color;
+}
+
+.button {
+  color: $btn-color;
+}
+
+:export {
+  primary-color: $primary-color;
+}
